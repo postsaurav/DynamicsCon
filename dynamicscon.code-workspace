@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "2020-09",
+			"path": "2020-09"
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true,
+		"window.titleSeparator": " - ",
+		"window.title": "Dynamics-con${separator}${activeFolderLong}${separator}${dirty}${activeEditorShort}${separator}${appName}"
+	}
+}
