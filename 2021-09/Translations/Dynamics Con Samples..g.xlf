@@ -1,0 +1,249 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="Dynamics Con Samples.">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 849783595 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Custom Change Log Entry</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SDH Change Log Entry - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 849783595 - Field 533922393 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Changed Record SystemId</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SDH Change Log Entry - Field Changed Record SystemId - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 849783595 - Field 2491730758 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Date and Time</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SDH Change Log Entry - Field Date and Time - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 849783595 - Field 883711285 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Entry No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SDH Change Log Entry - Field Entry No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 849783595 - Field 823559016 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Field Caption</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SDH Change Log Entry - Field Field Caption - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 849783595 - Field 1142237826 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Field Log Entry Feature</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SDH Change Log Entry - Field Field Log Entry Feature - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 849783595 - Field 3531868071 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Field No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SDH Change Log Entry - Field Field No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 849783595 - Field 2432660905 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>New Value</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SDH Change Log Entry - Field New Value - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 849783595 - Field 2009217437 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Notification Message Id</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SDH Change Log Entry - Field Notification Message Id - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 849783595 - Field 1965880731 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Notification status</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SDH Change Log Entry - Field Notification Status - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 849783595 - Field 3205443024 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Old Value</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SDH Change Log Entry - Field Old Value - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 849783595 - Field 1663593181 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Primary Key</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SDH Change Log Entry - Field Primary Key - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 849783595 - Field 2155743826 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Primary Key Field 1 Caption</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SDH Change Log Entry - Field Primary Key Field 1 Caption - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 849783595 - Field 1948702161 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Primary Key Field 1 No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SDH Change Log Entry - Field Primary Key Field 1 No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 849783595 - Field 3681225053 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Primary Key Field 1 Value</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SDH Change Log Entry - Field Primary Key Field 1 Value - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 849783595 - Field 772689159 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Primary Key Field 2 Caption</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SDH Change Log Entry - Field Primary Key Field 2 Caption - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 849783595 - Field 192072616 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Primary Key Field 2 No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SDH Change Log Entry - Field Primary Key Field 2 No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 849783595 - Field 3436809572 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Primary Key Field 2 Value</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SDH Change Log Entry - Field Primary Key Field 2 Value - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 849783595 - Field 3420811712 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Primary Key Field 3 Caption</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SDH Change Log Entry - Field Primary Key Field 3 Caption - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 849783595 - Field 3044796447 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Primary Key Field 3 No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SDH Change Log Entry - Field Primary Key Field 3 No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 849783595 - Field 3910660555 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Primary Key Field 3 Value</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SDH Change Log Entry - Field Primary Key Field 3 Value - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 849783595 - Field 2350089734 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Protected</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SDH Change Log Entry - Field Protected - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 849783595 - Field 2897660500 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Record ID</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SDH Change Log Entry - Field Record ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 849783595 - Field 1393533604 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Table Caption</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SDH Change Log Entry - Field Table Caption - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 849783595 - Field 3017471043 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Table No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SDH Change Log Entry - Field Table No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 849783595 - Field 1230148255 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Time</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SDH Change Log Entry - Field Time - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 849783595 - Field 3425031793 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Type of Change</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SDH Change Log Entry - Field Type of Change - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 849783595 - Field 3425031793 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Insertion,Modification,Deletion</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SDH Change Log Entry - Field Type of Change - Property OptionCaption</note>
+        </trans-unit>
+        <trans-unit id="Table 849783595 - Field 2708250016 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>User ID</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SDH Change Log Entry - Field User ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 849783595 - Control 883711285 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Entry No. field</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SDH Change Log Entry - Control Entry No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 849783595 - Control 823559016 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Field Caption field</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SDH Change Log Entry - Control Field Caption - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 849783595 - Control 3531868071 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Field No. field</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SDH Change Log Entry - Control Field No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 849783595 - Control 2432660905 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the New Value field</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SDH Change Log Entry - Control New Value - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 849783595 - Control 3205443024 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Old Value field</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SDH Change Log Entry - Control Old Value - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 849783595 - Control 1393533604 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Table Caption field</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SDH Change Log Entry - Control Table Caption - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 849783595 - Control 3017471043 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Table No. field</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SDH Change Log Entry - Control Table No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 849783595 - Control 2708250016 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the User ID field</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SDH Change Log Entry - Control User ID - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 775675585 - Action 959525793 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 6855404">
+          <source>Copy To Custom Change Log</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension SDH Change Log Entries - Action CopyChangeLog - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 775675585 - Action 4183342979 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 6855404">
+          <source>Open Custom Log</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension SDH Change Log Entries - Action CustomChangeLog - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 303462893 - Property 1064389655" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2901867346">
+          <source>Customers.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension SDH Customer - Property AboutTitle</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 303462893 - Property 247559172" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2901867346">
+          <source>All Customer Information is stored here. The Same Information is avilable during Trasactions related to customers.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension SDH Customer - Property AboutText</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 303462893 - Change 2178647059 - Property 1064389655" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2901867346">
+          <source>Balance ($)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension SDH Customer - Change Balance (LCY) - Property AboutTitle</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 303462893 - Change 2178647059 - Property 247559172" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2901867346">
+          <source>The balance is the total amount a customer owes you.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension SDH Customer - Change Balance (LCY) - Property AboutText</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 303462893 - Change 4028606413 - Property 1064389655" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2901867346">
+          <source>Customer Order Summary</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension SDH Customer - Change Customer - Order Summary - Property AboutTitle</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 303462893 - Change 4028606413 - Property 247559172" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2901867346">
+          <source>Used to see all Order posted for one or more customers.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension SDH Customer - Change Customer - Order Summary - Property AboutText</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 303462893 - Change 2161572060 - Property 1064389655" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2901867346">
+          <source>Location</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension SDH Customer - Change Location Code - Property AboutTitle</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 303462893 - Change 2161572060 - Property 247559172" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2901867346">
+          <source>The Location is used for default Sales Location.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension SDH Customer - Change Location Code - Property AboutText</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 303462893 - Field 4153432110 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1994964448">
+          <source>Dynamics Con 2021</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SDH Customer - Field SDH Dynamics Con 2021 - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

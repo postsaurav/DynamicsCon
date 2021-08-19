@@ -1,4 +1,4 @@
-pageextension 50000 "SDH Customer" extends "Customer List"
+pageextension 60000 "SDH Customer" extends "Customer List"
 {
     AboutTitle = 'Customers.';
     AboutText = 'All Customer Information is stored here. The Same Information is avilable during Trasactions related to customers.';
