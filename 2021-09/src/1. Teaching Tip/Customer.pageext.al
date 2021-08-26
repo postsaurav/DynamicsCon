@@ -15,16 +15,16 @@ pageextension 60000 "SDH Customer" extends "Customer List"
             AboutTitle = 'Location';
             AboutText = 'The Location is used for default Sales Location.';
         }
-        // addlast(Control1)
-        // {
-        //     field("SDH Dynamics Con 2021"; Rec."SDH Dynamics Con 2021")
-        //     {
-        //         ApplicationArea = All;
-        //         ToolTip = 'Specify Dynamics Con Attending Customers.';
-        //         AboutTitle = 'Dynamics Con';
-        //         AboutText = 'This field confirms that customer is attending DynamicsCon 2020.';
-        //     }
-        // }
+        addlast(Control1)
+        {
+            field("SDH Dynamics Con 2021"; Rec."SDH Dynamics Con 2021")
+            {
+                ApplicationArea = All;
+                ToolTip = 'Specify Dynamics Con Attending Customers.';
+                AboutTitle = 'Dynamics Con';
+                AboutText = 'This field confirms that customer is attending DynamicsCon 2020.';
+            }
+        }
     }
 
     actions
