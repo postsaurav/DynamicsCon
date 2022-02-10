@@ -1,0 +1,29 @@
+{
+  "id": "7b7e7833-4441-45fd-b70a-27116b01a5cd",
+  "name": "Dynamics Con Samples.",
+  "publisher": "Saurav Dhyani",
+  "brief": "This Repo Considered Demo Presented in Dynamics Con.",
+  "description": "",
+  "version": "1.0.0.0",
+  "runtime": "7.2",
+  "privacyStatement": "https://www.sauravdhyani.com/",
+  "EULA": "https://www.sauravdhyani.com/",
+  "help": "https://www.sauravdhyani.com/contact/",
+  "contextSensitiveHelpUrl": "https://www.sauravdhyani.com/",
+  "url": "https://www.sauravdhyani.com/",
+  "logo": "image/sauravdhyani.png",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "18.0.0.0",
+  "application": "18.0.0.0",
+  "idRanges": [
+    {
+      "from": 50000,
+      "to": 99999
+    }
+  ],
+  "features": [
+    "TranslationFile"
+  ],
+  "showMyCode": true
+}
